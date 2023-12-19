@@ -1,0 +1,5 @@
+Anaconda
+https://www.anaconda.com/download
+
+Google Colab
+https://colab.research.google.com/
